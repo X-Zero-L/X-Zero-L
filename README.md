@@ -19,8 +19,8 @@
 ║                                                              ║
 ║   > Name:     Zero                                           ║
 ║   > Role:     Python Developer / AI Engineer                 ║
-║   > Stack:    Python · TypeScript · Vue · Shell              ║
-║   > Focus:    AI/LLM · Bot Development · DevOps              ║
+║   > Stack:    Python · TypeScript · Go · Rust · C++          ║
+║   > Focus:    AI/LLM · Full Stack · DevOps                   ║
 ║   > Status:   Building the future, one commit at a time.     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -37,19 +37,19 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go&theme=dark" />
 
 </td>
 <td align="center" width="25%">
 
-**Frontend**
+**Systems**
 
-<img src="https://skillicons.dev/icons?i=vue,html,css,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,bash,php&theme=dark" />
 
 </td>
 <td align="center" width="25%">
 
-**Infra & Tools**
+**Infra & DevOps**
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,nginx&theme=dark" />
 
@@ -58,7 +58,7 @@
 
 **AI & Editor**
 
-<img src="https://skillicons.dev/icons?i=pytorch,neovim,vscode,md&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,neovim,vscode,vue&theme=dark" />
 
 </td>
 </tr>
