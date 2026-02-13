@@ -65,6 +65,55 @@
 </table>
 </div>
 
+## `> ls ~/contributions --pinned`
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🚀 StarRailCopilot</h3>
+<p align="center">
+  <a href="https://github.com/LmeSzinc/StarRailCopilot">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LmeSzinc&repo=StarRailCopilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="StarRailCopilot"/>
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🖼️ ImageFlow</h3>
+<p align="center">
+  <a href="https://github.com/Yuri-NagaSaki/ImageFlow">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yuri-NagaSaki&repo=ImageFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="ImageFlow"/>
+  </a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">🌐 NetMirror</h3>
+<p align="center">
+  <a href="https://github.com/catcat-blog/NetMirror">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=catcat-blog&repo=NetMirror&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="NetMirror"/>
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">&nbsp;</h3>
+<p align="center">
+  <i>More projects on <a href="https://github.com/X-Zero-L?tab=repositories">my repositories</a></i>
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
 ## `> ls ~/projects --featured`
 
 <div align="center">
@@ -109,55 +158,6 @@
   <a href="https://github.com/X-Zero-L/BingAIChat">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=X-Zero-L&repo=BingAIChat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="BingAIChat"/>
   </a>
-</p>
-
-</td>
-</tr>
-</table>
-</div>
-
-## `> ls ~/contributions --pinned`
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🚀 StarRailCopilot</h3>
-<p align="center">
-  <a href="https://github.com/LmeSzinc/StarRailCopilot">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LmeSzinc&repo=StarRailCopilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="StarRailCopilot"/>
-  </a>
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🖼️ ImageFlow</h3>
-<p align="center">
-  <a href="https://github.com/Yuri-NagaSaki/ImageFlow">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yuri-NagaSaki&repo=ImageFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="ImageFlow"/>
-  </a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">🌐 NetMirror</h3>
-<p align="center">
-  <a href="https://github.com/catcat-blog/NetMirror">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=catcat-blog&repo=NetMirror&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="NetMirror"/>
-  </a>
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">&nbsp;</h3>
-<p align="center">
-  <i>More projects on <a href="https://github.com/X-Zero-L?tab=repositories">my repositories</a></i>
 </p>
 
 </td>
