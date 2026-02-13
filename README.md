@@ -75,7 +75,7 @@
 <h3 align="center">🚀 StarRailCopilot</h3>
 <p align="center">
   <a href="https://github.com/LmeSzinc/StarRailCopilot">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LmeSzinc&repo=StarRailCopilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="StarRailCopilot"/>
+    <img src="https://stats.nyanners.moe/api/pin/?username=LmeSzinc&repo=StarRailCopilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="StarRailCopilot"/>
   </a>
 </p>
 
@@ -85,7 +85,7 @@
 <h3 align="center">🖼️ ImageFlow</h3>
 <p align="center">
   <a href="https://github.com/Yuri-NagaSaki/ImageFlow">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yuri-NagaSaki&repo=ImageFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="ImageFlow"/>
+    <img src="https://stats.nyanners.moe/api/pin/?username=Yuri-NagaSaki&repo=ImageFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="ImageFlow"/>
   </a>
 </p>
 
@@ -97,7 +97,7 @@
 <h3 align="center">🌐 NetMirror</h3>
 <p align="center">
   <a href="https://github.com/catcat-blog/NetMirror">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=catcat-blog&repo=NetMirror&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="NetMirror"/>
+    <img src="https://stats.nyanners.moe/api/pin/?username=catcat-blog&repo=NetMirror&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="NetMirror"/>
   </a>
 </p>
 
@@ -124,7 +124,7 @@
 <h3 align="center">🤖 jmhelper</h3>
 <p align="center">
   <a href="https://github.com/X-Zero-L/jmhelper">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=X-Zero-L&repo=jmhelper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="jmhelper"/>
+    <img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=jmhelper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="jmhelper"/>
   </a>
 </p>
 
@@ -134,7 +134,7 @@
 <h3 align="center">🔮 nonebot-plugin-gemini-vision</h3>
 <p align="center">
   <a href="https://github.com/X-Zero-L/nonebot-plugin-gemini-vision">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=X-Zero-L&repo=nonebot-plugin-gemini-vision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="gemini-vision"/>
+    <img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=nonebot-plugin-gemini-vision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="gemini-vision"/>
   </a>
 </p>
 
@@ -146,7 +146,7 @@
 <h3 align="center">⚙️ rig</h3>
 <p align="center">
   <a href="https://github.com/X-Zero-L/rig">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=X-Zero-L&repo=rig&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="rig"/>
+    <img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=rig&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="rig"/>
   </a>
 </p>
 
@@ -156,7 +156,7 @@
 <h3 align="center">🧠 BingAIChat</h3>
 <p align="center">
   <a href="https://github.com/X-Zero-L/BingAIChat">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=X-Zero-L&repo=BingAIChat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="BingAIChat"/>
+    <img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=BingAIChat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="BingAIChat"/>
   </a>
 </p>
 
@@ -169,8 +169,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=X-Zero-L&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=X-Zero-L&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=c9d1d9&langs_count=8&hide=html,css,batchfile" height="180" alt="Top Languages"/>
+<img src="https://stats.nyanners.moe/api?username=X-Zero-L&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://stats.nyanners.moe/api/top-langs/?username=X-Zero-L&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&text_color=c9d1d9&langs_count=8&hide=html,css,batchfile" height="180" alt="Top Languages"/>
 
 <br/>
 
