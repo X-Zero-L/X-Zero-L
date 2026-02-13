@@ -68,36 +68,31 @@
 ## `> ls ~/contributions --pinned`
 
 <div align="center">
-
-<a href="https://github.com/LmeSzinc/StarRailCopilot">
-  <img src="https://stats.nyanners.moe/api/pin/?username=LmeSzinc&repo=StarRailCopilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="StarRailCopilot"/>
-</a>
-<a href="https://github.com/Yuri-NagaSaki/ImageFlow">
-  <img src="https://stats.nyanners.moe/api/pin/?username=Yuri-NagaSaki&repo=ImageFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="ImageFlow"/>
-</a>
-<a href="https://github.com/catcat-blog/NetMirror">
-  <img src="https://stats.nyanners.moe/api/pin/?username=catcat-blog&repo=NetMirror&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="NetMirror"/>
-</a>
-
+  <table>
+    <tr>
+      <td width="50%"><a href="https://github.com/LmeSzinc/StarRailCopilot"><img src="https://stats.nyanners.moe/api/pin/?username=LmeSzinc&repo=StarRailCopilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9"/></a></td>
+      <td width="50%"><a href="https://github.com/Yuri-NagaSaki/ImageFlow"><img src="https://stats.nyanners.moe/api/pin/?username=Yuri-NagaSaki&repo=ImageFlow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9"/></a></td>
+    </tr>
+    <tr>
+      <td width="50%"><a href="https://github.com/catcat-blog/NetMirror"><img src="https://stats.nyanners.moe/api/pin/?username=catcat-blog&repo=NetMirror&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9"/></a></td>
+      <td width="50%"><a href="https://github.com/X-Zero-L?tab=repositories"><i>...and more projects</i></a></td>
+    </tr>
+  </table>
 </div>
 
 ## `> ls ~/projects --featured`
 
 <div align="center">
-
-<a href="https://github.com/X-Zero-L/jmhelper">
-  <img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=jmhelper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="jmhelper"/>
-</a>
-<a href="https://github.com/X-Zero-L/nonebot-plugin-gemini-vision">
-  <img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=nonebot-plugin-gemini-vision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="gemini-vision"/>
-</a>
-<a href="https://github.com/X-Zero-L/rig">
-  <img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=rig&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="rig"/>
-</a>
-<a href="https://github.com/X-Zero-L/BingAIChat">
-  <img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=BingAIChat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9" alt="BingAIChat"/>
-</a>
-
+  <table>
+    <tr>
+      <td width="50%"><a href="https://github.com/X-Zero-L/jmhelper"><img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=jmhelper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9"/></a></td>
+      <td width="50%"><a href="https://github.com/X-Zero-L/nonebot-plugin-gemini-vision"><img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=nonebot-plugin-gemini-vision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9"/></a></td>
+    </tr>
+    <tr>
+      <td width="50%"><a href="https://github.com/X-Zero-L/rig"><img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=rig&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9"/></a></td>
+      <td width="50%"><a href="https://github.com/X-Zero-L/BingAIChat"><img src="https://stats.nyanners.moe/api/pin/?username=X-Zero-L&repo=BingAIChat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF9FF&icon_color=7DF9FF&text_color=c9d1d9"/></a></td>
+    </tr>
+  </table>
 </div>
 
 ## `> neofetch --stats`
